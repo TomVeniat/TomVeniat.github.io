@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TomVeniat.github.io/al-folio/sitemap.xml
+Sitemap: https://TomVeniat.github.io/sitemap.xml
