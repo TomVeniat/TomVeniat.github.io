@@ -1,6 +1,8 @@
 github_users:
   - torvalds
   - alshedivat
+  - TomVeniat
+  - tomveniat
 
 github_repos:
   - alshedivat/al-folio
@@ -10,3 +12,6 @@ github_repos:
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
   - mathjax/MathJax
+  - TomVeniat/SANAS
+  - tomveniat/ProgressiveNeuralNetworks.pytorch
+  - tomveniat/bsn
