@@ -7,11 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -22,9 +18,8 @@ social: true  # includes social icons at the bottom of the page
 My research interests are mainly focused on __Computer Vision__ using __Deep Learning__ methods.
 
 I'm passionate about studying ways to make neural systems evolve over time, incorporating new data and leveraging existing knowledge from already trained models to solve new problems.
-This involves building on existing techniques in meta-learning, continual learning and neural architecture search to improve performances on \mybold{classification, object detection and instance segmentation} tasks.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+This involves building on existing techniques in meta-learning, continual learning and neural architecture search to improve performances on __classification, object detection and instance segmentation__ tasks.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
