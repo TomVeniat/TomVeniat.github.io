@@ -19,6 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+My research interests are mainly focused on __Computer Vision__ using __Deep Learning__ methods.
+
+I'm passionate about studying ways to make neural systems evolve over time, incorporating new data and leveraging existing knowledge from already trained models to solve new problems.
+This involves building on existing techniques in meta-learning, continual learning and neural architecture search to improve performances on \mybold{classification, object detection and instance segmentation} tasks.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
