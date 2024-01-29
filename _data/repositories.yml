@@ -1,17 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
   - TomVeniat
-  - tomveniat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - facebookresearch/CTrLBenchmark
+  - TomVeniat/MNTDP
   - TomVeniat/SANAS
   - tomveniat/ProgressiveNeuralNetworks.pytorch
   - tomveniat/bsn
