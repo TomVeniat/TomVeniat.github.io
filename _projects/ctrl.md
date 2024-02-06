@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: The Continual Transfer Learning Benchmark
+description: The CTrL benchmark aims to help research by studying the transfer behaviour of different models in the Lifelong Learning context.
 img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: work
 giscus_comments: true
 ---
@@ -20,6 +20,38 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/ctrl_bench/video/continual-transfer.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+    A desired property of a continual learning agent it to leverage knowledge acquired in the past to better solve new, related problems. 
+
+    Video from [the blogpost](https://ai.meta.com/blog/ctrl-and-mntdp-a-new-open-source-benchmark-and-model-for-continual-learning/) on this work of Marc'Aurelio Ranzato and Ludovic Denoyer.
+
+</div>
+
+The objective of this benchmark is to offer a set of tools to continual learning researchers to better understand the strength and weeknesses of different algorithms. 
+
+
+## How
+
+### Direct transfer
+
+$$\mathcal{S}^{\mbox{\small{-}}} = (t_1^+, t_2, t_3, t_4, t_5, t_1^-)$$
+
+### Knowldge update 
+
+### Transfer to similar Input or Output Distributions
+
+### Plasticity
+
+### Scalability
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

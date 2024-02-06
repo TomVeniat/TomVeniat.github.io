@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: Painting Mirror
+description: Using style transfer to  
+img: assets/projects/painting_mirror/img/cover.jpg
+redirect: https://maximetouroute.github.io/painting-mirror/#content
+importance: 3
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

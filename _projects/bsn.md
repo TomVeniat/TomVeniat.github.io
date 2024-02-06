@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Budgeted Super Networks
+description: A library for modular Neural Architecture Search using Reinforcement Learning 
+img: assets/img/12.jpg
+importance: 2
 category: work
+related_publications: veniat2018learning, veniat2019stochastic
 ---
 
 Every project has a beautiful feature showcase page.
