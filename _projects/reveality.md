@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Reveality
-description: another without an image
+description: Mobile toolkit leveraging AI to facilitate access to creation in Augmented Reality
 img: assets/projects/reveality/cover.jpg
 importance: 1
 redirect: https://reveality.io/
-category: augmented-reality, artificial-intelligence
+category: products
 ---
 
 Every project has a beautiful feature showcase page.

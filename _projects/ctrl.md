@@ -2,10 +2,10 @@
 layout: page
 title: The Continual Transfer Learning Benchmark
 description: The CTrL benchmark aims to help research by studying the transfer behaviour of different models in the Lifelong Learning context.
-img: assets/projects/ctrl_bench/img/radar_chart_stack-res.pdf
+img: assets/projects/ctrl_bench/img/radar_chart_stack-res.png
 importance: 3
-category: work
-giscus_comments: true
+category: research
+giscus_comments: false
 ---
 
 [Github repo](https://github.com/facebookresearch/CTrLBenchmark)

@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Painting Mirror
-description: Using style transfer to  
+description: Using style transfer for a real-time digital art exposition.
 img: assets/projects/painting_mirror/img/cover.jpg
 redirect: https://maximetouroute.github.io/painting-mirror/#content
-importance: 3
-category: work
+importance: 2
+category: products
 ---
 
 Every project has a beautiful feature showcase page.
