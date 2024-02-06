@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
+title: Reveality
 description: another without an image
-img:
-importance: 3
-category: fun
+img: assets/projects/reveality/cover.jpg
+importance: 1
+redirect: https://reveality.io/
+category: augmented-reality, artificial-intelligence
 ---
 
 Every project has a beautiful feature showcase page.
