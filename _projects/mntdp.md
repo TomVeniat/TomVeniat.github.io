@@ -2,8 +2,8 @@
 layout: page
 title: Modular Networks with task-driven priors
 description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+img: assets/projects/mntdp/toy_illustration_2.png
+importance: 4
 category: research
 ---
 

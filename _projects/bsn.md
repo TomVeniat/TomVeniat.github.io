@@ -2,8 +2,8 @@
 layout: page
 title: Budgeted Super Networks
 description: A library for modular Neural Architecture Search using Reinforcement Learning 
-img: assets/img/12.jpg
-importance: 2
+img: assets/projects/bsn/arch_cnf_part_w9.png
+importance: 5
 category: research
 related_publications: veniat2018learning, veniat2019stochastic
 ---
