@@ -5,6 +5,7 @@ description: A library for modular Neural Architecture Search using Reinforcemen
 img: assets/projects/bsn/arch_cnf_part_w9.png
 importance: 5
 category: research
+redirect: https://github.com/TomVeniat/bsn
 related_publications: veniat2018learning, veniat2019stochastic
 ---
 

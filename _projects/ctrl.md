@@ -5,6 +5,7 @@ description: The CTrL benchmark aims to help research by studying the transfer b
 img: assets/projects/ctrl_bench/img/radar_chart_stack-res.png
 importance: 3
 category: research
+redirect: https://ai.meta.com/blog/ctrl-and-mntdp-a-new-open-source-benchmark-and-model-for-continual-learning/
 giscus_comments: false
 ---
 

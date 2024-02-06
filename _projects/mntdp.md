@@ -4,6 +4,7 @@ title: Modular Networks with task-driven priors
 description: a project with a background image
 img: assets/projects/mntdp/toy_illustration_2.png
 importance: 4
+redirect: https://github.com/TomVeniat/MNTDP
 category: research
 ---
 
