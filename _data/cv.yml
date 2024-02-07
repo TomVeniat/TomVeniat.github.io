@@ -50,32 +50,47 @@
         - Architect and develop the software infrastructure behind the AI algorithm and the App.
         - Work on company strategy and coordinate technological development.
     
-    - title: R&D Machine Learning Engineer
+    - title: R&D ML Engineer
       institution: Visionairy
       year: 2023
       description: 
+       - I worked at the interface of the R&D and product teams to help with 
+       - Lead of the transfer of custom algorithms to ONNX for improved performance on embedded devices and streamlined deployement
+       - Standardized the embedded core orchastrating the ML algorithms, captors and actuators in the factories
     
     - title: Research Intern
       institution: Facebook AI Research, New York, USA 
       year: 2019
       description:
-      - Internship in FAIR New York under the supervison of Marc'Aurelio Ranzato.
-      - I worked on new evaluation methods for <b>Continual Learning</b> systems, allowing a fine-grained analysis of the behavior of any learner on carefully tuned scenarios.
-      - Exploration of modular architectures in the proposed scenarios.\\
-      - Published in ICLR 2021.
+        - 6 month internship in FAIR New York under the supervison of Marc'Aurelio Ranzato.
+        - I worked on new evaluation methods for <b>Continual Learning</b> systems, allowing a fine-grained analysis of the behavior of any learner on carefully tuned scenarios.
+        - Exploration of modular architectures in the proposed scenarios.\\
+        - Published in ICLR 2021.
       
     - title: PhD Candidate
       institution: Sorbonne Universite, Paris, France
       year: 2017-2021
       description:
         - I worked with Prof. L.Denoyer and M.A. Ranzato on Meta-Learning and Neural Architecture Search for discovery of <b>resource-efficient Deep Neural Networks</b>. 
-        - Publication at top ML conferences (CVPR, ICLR, ICASSP)
+        - Publications at top ML conferences (CVPR, ICLR, ICASSP)
         - Reviewer for ML conferences (ICLR, NeurIPS, ICML)
         - Teaching Assistant (Python, C, Java, Machine Learning, Software Eng, ...)
+      
+    - title: Research Intern
+      institution: Supralog, Nice, France
+      year: 2017
+      description:
+        - 6 month internship in LIP6 lab under the supervision of Ludovic Denoyer.
+        - I Worked on Meta-Learning and Reinforcement Learning for automatic Deep Neural Networks architecture search.
+        - Article submitted to NIPS Conference.
       
     - title: Software Engineer Apprentice
       institution: Supralog, Nice, France
       year: 2015-2016
+      description:
+        - One year apprenticeship on the overhaul of an e-health software to migrate from a desktop version to a Saas application.
+        - Conception of a testing architecture allowing Test Driven Development (TDD) and Continuous Integration (CI).
+        - Development of several specific components using Java EE technologies, Java 8, Spring 4, Hibernate 5, JSF 2.
 
 # - title: Open Source Projects
 #   type: time_table
