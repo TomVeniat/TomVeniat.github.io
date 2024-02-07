@@ -17,83 +17,101 @@
         - Publication at top ML conferences (CVPR, ICLR, ICASSP)
         - Reviewer for ML conferences (ICLR, NeurIPS, ICML)
         - Teaching Assistant (Python, C, Java, Machine Learning, Software Eng, ...)
-        - title: Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        # - title: Description 1.
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    
+    - title: MS in Data Science 
+      institution: Sorbonne Université, Paris, France
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Statistical Learning, Computer Vision, Big Data, Symbolic Reasoning, Fuzzy Systems, ...
+        - Focus on Machine Learning with the objective to get in a PhD program. 
+    
+    - title: Ingineering Degree in Computer Science
+      institution: Université Nice Sophia Antipolis, Nice, France
+      year: 2016
+      description:
+        - Major in Software Architecture.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Co-founder and CTO
+      institution: Reveality
+      year: 2021-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Development of AI-Powered creation tools for Augmented Reality.
+        - Setup and tuning of <b> Detection </b> and <b>Segmentation</b> algorithms used in user-facing applications.
+        - Development of the Reveality mobile App.
+        - Architect and develop the software infrastructure behind the AI algorithm and the App.
+        - Work on company strategy and coordinate technological development.
+    
+    - title: R&D Machine Learning Engineer
+      institution: Visionairy
+      year: 2023
+      description: 
+    
+    - title: Research Intern
+      institution: Facebook AI Research, New York, USA 
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+      - Internship in FAIR New York under the supervison of Marc'Aurelio Ranzato.
+      - I worked on new evaluation methods for <b>Continual Learning</b> systems, allowing a fine-grained analysis of the behavior of any learner on carefully tuned scenarios.
+      - Exploration of modular architectures in the proposed scenarios.\\
+      - Published in ICLR 2021.
+      
+    - title: PhD Candidate
+      institution: Sorbonne Universite, Paris, France
+      year: 2017-2021
       description:
+        - I worked with Prof. L.Denoyer and M.A. Ranzato on Meta-Learning and Neural Architecture Search for discovery of <b>resource-efficient Deep Neural Networks</b>. 
+        - Publication at top ML conferences (CVPR, ICLR, ICASSP)
+        - Reviewer for ML conferences (ICLR, NeurIPS, ICML)
+        - Teaching Assistant (Python, C, Java, Machine Learning, Software Eng, ...)
+      
+    - title: Software Engineer Apprentice
+      institution: Supralog, Nice, France
+      year: 2015-2016
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023-2024
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Pépite jury member (National Student entreneurship organization)
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - Pépite prize winner with Reveality
+    - year: 2019
+      items:
+        - Best student paper Award in ICASSP
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Lifelong learning
+      # items: 
+        # - Description 1.
+        # - Description 2.
+    - title: Neural Architecture Search
+      # items:
+        # - Description 1.
+        # - Description 2.
+    - title: Computer Vision
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Chess, Bass Guitar.
+    - <u>Sports:</u> Bouldering, Running, Judo.
