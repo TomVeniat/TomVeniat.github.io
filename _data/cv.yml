@@ -55,8 +55,8 @@
       year: 2023
       description: 
        - I worked at the interface of the R&D and product teams to help with 
-       - Lead of the transfer of custom algorithms to ONNX for improved performance on embedded devices and streamlined deployement
-       - Standardized the embedded core orchastrating the ML algorithms, captors and actuators in the factories
+       - Lead of the transfer of custom algorithms to ONNX for improved performance on embedded devices and streamlined deployment
+       - Standardized the embedded core orchestrating the ML algorithms, captors and actuators in the factories
     
     - title: Research Intern
       institution: Facebook AI Research, New York, USA 
